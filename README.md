@@ -26,7 +26,7 @@
 
 <!--Intro start-->
 <h1 align="center">SOBRE MÍ 🙌</h1>
-<p align="center">Desarrollador de Software enfocado en Ingeniería de Datos y Big Data. Cuento con experiencia sólida en el sector financiero automatizando la ingesta y transformación de datos a gran escala. Me especializo en la construcción de arquitecturas en la nube, habiendo liderado migraciones críticas desde sistemas legacy **AS/400 hacia Data Lakes en AWS (S3)</p>
+<p align="center">Desarrollador de Software enfocado en Ingeniería de Datos y Big Data. Cuento con experiencia sólida en el sector financiero automatizando la ingesta y transformación de datos a gran escala. Me especializo en la construcción de arquitecturas en la nube, habiendo liderado migraciones críticas desde sistemas legacy AS/400 hacia Data Lakes en AWS (S3)</p>
 <!--Intro end-->
 
        
