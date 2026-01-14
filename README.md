@@ -62,7 +62,7 @@
 <!--icons and links-->
 <div align="center">
 <p align="center">
-<a href="www.linkedin.com/in/juanfbo" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/juanfbo" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
 
 </p>
 </div> 
