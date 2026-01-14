@@ -44,7 +44,7 @@
 <div align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=pyhton,sqlserver,aws,azure,cs,sparksql,pandas,dotnet"
+      src="https://go-skill-icons.vercel.app/api/icons?i=py,sqlserver,aws,azure,cs,sparksql,pandas,dotnet"
     />
   </a>
 </div>
